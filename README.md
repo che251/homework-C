@@ -1,2 +1,8 @@
 # homework-C
-用于存放、提交课程作业代码和相关文档
+简介：用于存放、提交课程作业代码和相关文档
+开发环境：Windows+Git                          
+v1版本:基础HelloWorld代码
+目录：homework/
+├─ README.md
+└─ ex01/
+   └─ HelloWorld.py
